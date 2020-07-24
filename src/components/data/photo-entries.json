@@ -1,0 +1,40 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "1.jpg",
+      "caption"  : "This Feeling is something that I ll never Be able to put it in words",
+      "location" : "Kodaikanal, India"
+    },
+
+    {
+      "src"      : "2.jpg",
+      "caption"  : "Back to School days",
+      "location" : "Kendriya Vidyalaya, India"
+    },
+
+    {
+      "src"      : "3.jpg",
+      "caption"  : "If This life exist only in my dreams Don't wake me up :)",
+      "location" : "Toronto, Canada"
+    },
+
+    {
+      "src"      : "4.jpg",
+      "caption"  : "Every nect level of your life will demand a different you",
+      "location" : "Manali, India"
+    },
+
+    {
+      "src"      : "5.jpg",
+      "caption"  : "Wanderlust",
+      "location" : "DD hills, India"
+    },
+
+    {
+      "src"      : "6.jpg",
+      "caption"  : "I'm only myself when i have a guitar in my hands",
+      "location" : "home, India"
+    }
+  ]
+}
